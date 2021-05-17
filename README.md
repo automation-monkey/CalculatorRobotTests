@@ -2,19 +2,20 @@
 This project contains Selenium tests for calculator, written in [Robot Framework](http://robotframework.org/)
 
 ## Testing environment
-### 1. Repository
-Clone https://github.com/automation-monkey/CalculatorRobotTests.git into your machine/docker.
 
-### 2. Python
-You will need Python 3.7 (or higher) and pip to be installed on your machine:
+### 1. Python
+You will need Python 3.7 (or higher) and pip to be installed on your machine/docker:
 - Python: download and install latest python 3.7 version: https://www.python.org/downloads/
 - pip - follow instructions on https://pip.pypa.io/en/stable/installing/
 
-### 3. Virtual env
+### 2. Virtual env
 Set up virtualenvwrapper (or virtualenv), according to https://virtualenvwrapper.readthedocs.io/en/latest/install.html#basic-installation. 
 Create a virtualenv to use with Robot Tests, example command:
 
 ``` mkvirtualenv -p python3 robotenv```
+
+### 3. Repository
+Clone https://github.com/automation-monkey/CalculatorRobotTests.git into your machine/docker.
 
 ### 4. Install requirements
 Change your working environment to the one created in step 3. If you have just created it with mkvirtualenv - it is already your active environment - you don't have to change it. If not, use `workon robotenv` if you're using virtualenvwrapper or `source YOUR-ENV-PATH/bin/activate`.
