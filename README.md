@@ -34,6 +34,8 @@ Download latest webdriver:
 
 [Geckodrive Firefox](https://github.com/mozilla/geckodriver/releases)
 
+[Safari](https://developer.apple.com/documentation/webkit/testing_with_webdriver_in_safari)
+
 Put the webdrivers in the webdrivers directory.
 
 ### 6. Run a test!
