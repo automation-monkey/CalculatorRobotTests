@@ -24,7 +24,7 @@ Install requirements from your cloned repository:
 ```$ pip3 install -r requirements.txt```
 
 ### 5. Webdriver to run tests locally
-Place the webdriver inside your bin folder under the virualenv folder you created, eg. CalculatorRobotTest/Env/bin
+Place the webdriver inside your bin folder under the virualenv folder you created, eg. /CalculatorRobotTest/Env/bin
 
 Download latest webdriver:
 
