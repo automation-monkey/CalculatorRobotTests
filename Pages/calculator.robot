@@ -93,6 +93,9 @@ Punch Number In Calculator
         Click Element    ${${digit} locator}
     END
 
+Select Dot
+    Click Element    ${dot locator}
+
 Select Integer Number
     [Arguments]    ${Number}
     Punch Number In Calculator    ${Number}
@@ -186,6 +189,14 @@ Select Math operator Multiple Times
     Click Arithmetic Action    multiply
     Select Number  5
     Get Result And Compare To Expected    5*5
+
+Select Dot operator Multiple Times
+    Select Number    5
+    Select Dot
+    Select Number    5
+    Select Dot
+    Select Number    5
+    Get Result And Compare To Expected    5.55
 
 Play Around With Result Button
     Select Result
