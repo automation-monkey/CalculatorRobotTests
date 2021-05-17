@@ -59,4 +59,6 @@ Ideally you would like to run tests using command:
 ``` $ robot -d ../Results/ -v BROWSER:Chrome TestSuite/TestCalculator.robot```# RobotCalculatorTests
 
 
-#### If you encounter "chromedriver cannot be opened because the developer cannot be verified" use this [link](https://timonweb.com/misc/fixing-error-chromedriver-cannot-be-opened-because-the-developer-cannot-be-verified-unable-to-launch-the-chrome-browser-on-mac-os/)
+### 7. Troubleshooting
+
+If you encounter "chromedriver cannot be opened because the developer cannot be verified" use this [link](https://timonweb.com/misc/fixing-error-chromedriver-cannot-be-opened-because-the-developer-cannot-be-verified-unable-to-launch-the-chrome-browser-on-mac-os/)
