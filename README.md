@@ -24,10 +24,7 @@ Install requirements from your cloned repository:
 ```$ pip3 install -r requirements.txt```
 
 ### 5. Webdriver to run tests locally
-Create a directory for your webdrivers, eg. ~/workspace/webdrivers
-Add this directory to your PATH as another line:
-
-```$ sudo vi /etc/paths```
+Place the webdriver inside your bin folder under the virualenv folder you created, eg. CalculatorRobotTest/Env/bin
 
 Download latest webdriver:
 
