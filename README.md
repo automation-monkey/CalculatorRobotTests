@@ -3,7 +3,7 @@ This project contains Selenium tests for calculator, written in [Robot Framework
 
 ## Testing environment
 ### 1. Repository
-Fork https://github.com/willessen-at/mjam-testing and clone to your machine.
+Fork https://github.com/automation-monkey/CalculatorRobotTests.git and clone to your machine.
 
 ### 2. Python
 You will need Python 3.7 (or higher) and pip to be installed on your machine:
