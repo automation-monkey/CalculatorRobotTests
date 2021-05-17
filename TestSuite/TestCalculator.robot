@@ -70,6 +70,9 @@ Check if the clear key is working
 Check Math operator can be selected once between numbers
     Select Math operator Multiple Times
 
+Check Dot can be selected once to create a decimal number
+    Select Dot operator Multiple Times
+
 Check clicking Result without input
     Play Around With Result Button
 
