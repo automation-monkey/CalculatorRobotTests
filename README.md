@@ -56,7 +56,7 @@ To pass browser variable with or override the default ones. It could be for any 
 
 Ideally you would like to run tests using command:
 
-``` $ robot -d ../Results/ -v BROWSER:Chrome TestSuite/TestCalculator.robot```# RobotCalculatorTests
+``` $ robot -d ../Results/ -v BROWSER:Chrome TestSuite/TestCalculator.robot```
 
 
 ### 7. Troubleshooting
