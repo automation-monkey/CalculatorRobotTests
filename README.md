@@ -36,7 +36,7 @@ Download latest webdriver:
 Put the webdrivers in the webdrivers directory.
 
 ### 6. Run a test!
-To run a test, you need to use the **robot** command. It's a binary that allows you to run tests written in Robot Framework (http://robotframework.org/).
+To run a test, you need to use the **robot** command. It's a binary that allows you to run tests written in Robot Framework.
 
 Most simple way to run a test would be: 
 
