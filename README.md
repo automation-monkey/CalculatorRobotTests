@@ -53,3 +53,6 @@ To pass browser variable with or override the default ones. It could be for any 
 Ideally you would like to run tests using command:
 
 ``` $ robot -d ../Results/ -v BROWSER:Chrome TestSuite/TestCalculator.robot```
+
+### 7. View test report
+After running the tests you will be dispolayed with the test and their status (pass/fail). To get indepth of failures (with screenshot), simply open the report.html file in the results folder.
