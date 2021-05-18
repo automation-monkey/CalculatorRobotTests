@@ -4,8 +4,8 @@ This project contains Selenium tests for calculator, written in [Robot Framework
 ## Testing environment
 
 ### 1. Python
-You will need Python 3.7 (or higher) and pip to be installed on your machine/docker:
-- Python: download and install latest python 3.7 version: https://www.python.org/downloads/
+You will need Python 3.6 (or higher) and pip to be installed on your machine/docker:
+- Python: download and install latest python 3.6 version: https://www.python.org/downloads/
 - pip - follow instructions on https://pip.pypa.io/en/stable/installing/
 
 ### 2. Virtual env
