@@ -18,8 +18,7 @@ Create a virtualenv to use with Robot Tests, example command:
 Clone https://github.com/automation-monkey/CalculatorRobotTests.git into your machine/docker.
 
 ### 4. Install requirements
-Change your working environment to the one created in step 3. If you have just created it with mkvirtualenv - it is already your active environment - you don't have to change it. If not, use `workon robotenv` if you're using virtualenvwrapper or `source YOUR-ENV-PATH/bin/activate`.
-Install requirements from your cloned repository:
+Change your working environment to the one created in step 3. If you have just created it with mkvirtualenv - it is already your active environment - you don't have to change it. Install requirements from your cloned repository:
 
 ```$ pip3 install -r requirements.txt```
 
