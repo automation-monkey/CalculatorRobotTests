@@ -23,7 +23,7 @@ Change your working environment to the one created in step 3. If you have just c
 ```$ pip3 install -r requirements.txt```
 
 ### 5. Webdriver to run tests locally
-Place the webdriver inside your bin folder under the virualenv folder you created, eg. /CalculatorRobotTest/Env/bin
+Downloda and place webdrivers inside your bin folder under the virualenv folder you created, eg. /robotenv/bin
 
 Download latest webdriver:
 
@@ -53,8 +53,3 @@ To pass browser variable with or override the default ones. It could be for any 
 Ideally you would like to run tests using command:
 
 ``` $ robot -d ../Results/ -v BROWSER:Chrome TestSuite/TestCalculator.robot```
-
-
-### 7. Troubleshooting
-
-If you encounter "chromedriver cannot be opened because the developer cannot be verified" use this [link](https://timonweb.com/misc/fixing-error-chromedriver-cannot-be-opened-because-the-developer-cannot-be-verified-unable-to-launch-the-chrome-browser-on-mac-os/)
