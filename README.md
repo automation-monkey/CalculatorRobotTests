@@ -23,7 +23,7 @@ Change your working environment to the one created in step 3. If you have just c
 ```$ pip3 install -r requirements.txt```
 
 ### 5. Webdriver to run tests locally
-Downloda and place webdrivers inside your bin folder under the virualenv folder you created, eg. /robotenv/bin
+Download and place webdrivers inside your bin folder under the virualenv (folder) you created, eg. /robotenv/bin
 
 Download latest webdriver:
 
